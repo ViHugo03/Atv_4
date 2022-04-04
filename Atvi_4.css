@@ -3,8 +3,9 @@
  margin-top: 30px;
  font-size: 35px;
  font-family: monospace;
- 
-    
+}
+body{
+    background-color: rgb(255, 255, 255);
 }
 .container1{ 
     width: auto;
@@ -153,7 +154,7 @@
     background-color: rgb(255, 0, 119);
     display: flex;    
     justify-content: center;
-    margin-left:900px ;
+    margin-left:600px ;
     margin-right: 200px;
 
 } 
@@ -197,7 +198,7 @@
     background-color: rgb(255, 0, 119);
     display: flex;    
     justify-content: center;
-    margin-left: 700px;
+    margin-left: 400px;
     margin-right: 200px;
 
 } 
@@ -235,7 +236,7 @@
     display: flex;
     justify-content: center; 
     margin-left: 200px;
-    margin-right: 500px;
+    margin-right: 200px;
 
 
 } 
@@ -255,4 +256,87 @@
     display: flex;  
     justify-content: center;
     margin-right: 200px;
+}
+.container31{ 
+    width: 100px;
+    height: auto;
+    background-color: rgb(234, 238, 184); 
+    display: flex;
+    margin-top: 25px;
+    flex-direction: column-reverse; 
+
+  
+}
+.container32{ 
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 132, 255);
+    display: flex;  
+    justify-content: center;   
+}
+.container33{ 
+    width: 100px;
+    height: 100px;
+    background-color: rgb(2, 47, 88); 
+    display: flex;
+    justify-content: center;
+
+}
+.container34{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 119);
+    display: flex;    
+    justify-content: center;
+}
+.container35{ 
+    width: 100px;
+    height: 100px;
+    background-color: rgb(180, 158, 31); 
+    display: flex;  
+    justify-content: center;
+}
+.container36{ 
+    width: auto;
+    height: 100px;
+    background-color: rgb(234, 238, 184); 
+    display: flex;
+    margin-top: 25px;
+    flex-direction: row-reverse;
+    justify-content: left;
+  
+  
+       
+
+  
+}
+.container37{ 
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 132, 255);
+    display: flex;  
+    justify-content: center;
+      
+}
+.container38{ 
+    width: 100px;
+    height: 100px;
+    background-color: rgb(2, 47, 88); 
+    display: flex;
+    justify-content: center;
+
+}
+.container39{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 119);
+    display: flex;    
+    justify-content: center;
+}
+.container40{ 
+    width: 100px;
+    height: 100px;
+    background-color: rgb(180, 158, 31); 
+    display: flex;  
+    justify-content: center;
 }
